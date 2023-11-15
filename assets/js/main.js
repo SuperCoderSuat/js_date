@@ -130,9 +130,9 @@ console.log(checkWeekend(date15));
 console.log(checkWeekend(date16));
 
 // ****************************************
-//             JS Date lvl 1.9
+//             JS Date lvl 1.10
 // ****************************************
-console.log("%c JS Date lvl 1.9", "color:green");
+console.log("%c JS Date lvl 1.10", "color:green");
 
 const displayCurrentDate = () => {
 
